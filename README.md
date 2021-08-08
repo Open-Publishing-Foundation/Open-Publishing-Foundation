@@ -1,3 +1,5 @@
+<img src="https://imgur.com/a/MqYofnm" />
+
 # Open Publishing Foundation
 
 The Open Publishing Foundation creates and distributes typeset works of public domain literature under the GPL-3 License
