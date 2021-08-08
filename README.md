@@ -1,4 +1,4 @@
-<img height="250" width="2400" src="https://github.com/Open-Publishing-Foundation/Open-Publishing-Foundation/blob/main/Banner.png?raw=true" />
+<img height="240" width="1680" src="https://github.com/Open-Publishing-Foundation/Open-Publishing-Foundation/blob/main/Banner.png?raw=true" />
 
 # Open Publishing Foundation
 
