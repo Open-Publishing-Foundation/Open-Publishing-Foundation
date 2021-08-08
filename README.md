@@ -1,4 +1,4 @@
-<img src="https://imgur.com/a/MqYofnm" />
+<img src="https://github.com/Open-Publishing-Foundation/Open-Publishing-Foundation/blob/main/Slide%20Banner.png?raw=true" />
 
 # Open Publishing Foundation
 
