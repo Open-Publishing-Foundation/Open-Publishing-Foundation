@@ -4,7 +4,7 @@
 
 The Open Publishing Foundation creates and distributes typeset works of public domain literature under the GPL-3 License
 for the consumption in e-book formats or their free use in publishing. The aim of this orginisation is to re-produce 
-high-quality typeset works, focusing upon works that are either out of print or extreamly expensive to purchase. All
+high-quality typeset works, focusing upon works that are either out of print or expensive to purchase. All
 works will be written using the Latex or Groff/Troff typesetting systems and will be compiled to the ePub and PDF formats.
 
 ## Contribution Guide
